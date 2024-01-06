@@ -91,52 +91,52 @@
     "folder": "Playlist"
   },
   {
-    "name": "14 - Morakab Navazi",
+    "name": "14 - Nava",
     "artist": "Various",
     "image": "Persian Radif - Kanoon/cover art.png",
-    "path": "Persian Radif - Kanoon/Playlist/14 - Morakab Navazi.mp3",
+    "path": "Persian Radif - Kanoon/Playlist/14 - Nava.mp3",
     "folder": "Playlist"
   },
   {
-    "name": "15 - Nava",
+    "name": "15 - Rastpanjgah",
     "artist": "Various",
     "image": "Persian Radif - Kanoon/cover art.png",
-    "path": "Persian Radif - Kanoon/Playlist/15 - Nava.mp3",
+    "path": "Persian Radif - Kanoon/Playlist/15 - Rastpanjgah.mp3",
     "folder": "Playlist"
   },
   {
-    "name": "16 - Rastpanjgah",
+    "name": "16 - Segah 1",
     "artist": "Various",
     "image": "Persian Radif - Kanoon/cover art.png",
-    "path": "Persian Radif - Kanoon/Playlist/16 - Rastpanjgah.mp3",
+    "path": "Persian Radif - Kanoon/Playlist/16 - Segah 1.mp3",
     "folder": "Playlist"
   },
   {
-    "name": "17 - Segah 1",
+    "name": "17 - Segah 2",
     "artist": "Various",
     "image": "Persian Radif - Kanoon/cover art.png",
-    "path": "Persian Radif - Kanoon/Playlist/17 - Segah 1.mp3",
+    "path": "Persian Radif - Kanoon/Playlist/17 - Segah 2.mp3",
     "folder": "Playlist"
   },
   {
-    "name": "18 - Segah 2",
+    "name": "18 - Shoor 1",
     "artist": "Various",
     "image": "Persian Radif - Kanoon/cover art.png",
-    "path": "Persian Radif - Kanoon/Playlist/18 - Segah 2.mp3",
+    "path": "Persian Radif - Kanoon/Playlist/18 - Shoor 1.mp3",
     "folder": "Playlist"
   },
   {
-    "name": "19 - Shoor 1",
+    "name": "19 - Shoor 2",
     "artist": "Various",
     "image": "Persian Radif - Kanoon/cover art.png",
-    "path": "Persian Radif - Kanoon/Playlist/19 - Shoor 1.mp3",
+    "path": "Persian Radif - Kanoon/Playlist/19 - Shoor 2.mp3",
     "folder": "Playlist"
   },
   {
-    "name": "20 - Shoor 2",
+    "name": "20 - Morakab Navazi",
     "artist": "Various",
     "image": "Persian Radif - Kanoon/cover art.png",
-    "path": "Persian Radif - Kanoon/Playlist/20 - Shoor 2.mp3",
+    "path": "Persian Radif - Kanoon/Playlist/20 - Morakab Navazi.mp3",
     "folder": "Playlist"
   }
 ]

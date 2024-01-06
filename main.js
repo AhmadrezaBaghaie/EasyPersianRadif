@@ -24,142 +24,142 @@ let curr_track = document.createElement('audio');
 let track_list = [
   {
     "name": "1 - Abuata",
-    "artist": "Various Artists",
+    "artist": "Various",
     "image": "Persian Radif - Kanoon/cover art.png",
     "path": "Persian Radif - Kanoon/Playlist/1 - Abuata.mp3",
     "folder": "Playlist"
   },
   {
     "name": "2 - Afshari",
-    "artist": "Various Artists",
+    "artist": "Various",
     "image": "Persian Radif - Kanoon/cover art.png",
     "path": "Persian Radif - Kanoon/Playlist/2 - Afshari.mp3",
     "folder": "Playlist"
   },
   {
     "name": "3 - Bayat-e-Esfahan",
-    "artist": "Various Artists",
+    "artist": "Various",
     "image": "Persian Radif - Kanoon/cover art.png",
     "path": "Persian Radif - Kanoon/Playlist/3 - Bayat-e-Esfahan.mp3",
     "folder": "Playlist"
   },
   {
     "name": "4 - Bayat-e-Tork",
-    "artist": "Various Artists",
+    "artist": "Various",
     "image": "Persian Radif - Kanoon/cover art.png",
     "path": "Persian Radif - Kanoon/Playlist/4 - Bayat-e-Tork.mp3",
     "folder": "Playlist"
   },
   {
     "name": "5 - Chahargah 1",
-    "artist": "Various Artists",
+    "artist": "Various",
     "image": "Persian Radif - Kanoon/cover art.png",
     "path": "Persian Radif - Kanoon/Playlist/5 - Chahargah 1.mp3",
     "folder": "Playlist"
   },
   {
     "name": "6 - Chahargah 2",
-    "artist": "Various Artists",
+    "artist": "Various",
     "image": "Persian Radif - Kanoon/cover art.png",
     "path": "Persian Radif - Kanoon/Playlist/6 - Chahargah 2.mp3",
     "folder": "Playlist"
   },
   {
     "name": "7 - Dashti 1",
-    "artist": "Various Artists",
+    "artist": "Various",
     "image": "Persian Radif - Kanoon/cover art.png",
     "path": "Persian Radif - Kanoon/Playlist/7 - Dashti 1.mp3",
     "folder": "Playlist"
   },
   {
     "name": "8 - Dashti 2",
-    "artist": "Various Artists",
+    "artist": "Various",
     "image": "Persian Radif - Kanoon/cover art.png",
     "path": "Persian Radif - Kanoon/Playlist/8 - Dashti 2.mp3",
     "folder": "Playlist"
   },
   {
     "name": "9 - Homayoun 1",
-    "artist": "Various Artists",
+    "artist": "Various",
     "image": "Persian Radif - Kanoon/cover art.png",
     "path": "Persian Radif - Kanoon/Playlist/9 - Homayoun 1.mp3",
     "folder": "Playlist"
   },
   {
     "name": "10 - Homayoun 2",
-    "artist": "Various Artists",
+    "artist": "Various",
     "image": "Persian Radif - Kanoon/cover art.png",
     "path": "Persian Radif - Kanoon/Playlist/10 - Homayoun 2.mp3",
     "folder": "Playlist"
   },
   {
     "name": "11 - Mahoor 1",
-    "artist": "Various Artists",
+    "artist": "Various",
     "image": "Persian Radif - Kanoon/cover art.png",
     "path": "Persian Radif - Kanoon/Playlist/11 - Mahoor 1.mp3",
     "folder": "Playlist"
   },
   {
     "name": "12 - Mahoor 2",
-    "artist": "Various Artists",
+    "artist": "Various",
     "image": "Persian Radif - Kanoon/cover art.png",
     "path": "Persian Radif - Kanoon/Playlist/12 - Mahoor 2.mp3",
     "folder": "Playlist"
   },
   {
     "name": "13 - Mahoor 3",
-    "artist": "Various Artists",
+    "artist": "Various",
     "image": "Persian Radif - Kanoon/cover art.png",
     "path": "Persian Radif - Kanoon/Playlist/13 - Mahoor 3.mp3",
     "folder": "Playlist"
   },
   {
-    "name": "14 - Morakab Navazi",
-    "artist": "Various Artists",
+    "name": "14 - Nava",
+    "artist": "Various",
     "image": "Persian Radif - Kanoon/cover art.png",
-    "path": "Persian Radif - Kanoon/Playlist/14 - Morakab Navazi.mp3",
+    "path": "Persian Radif - Kanoon/Playlist/14 - Nava.mp3",
     "folder": "Playlist"
   },
   {
-    "name": "15 - Nava",
-    "artist": "Various Artists",
+    "name": "15 - Rastpanjgah",
+    "artist": "Various",
     "image": "Persian Radif - Kanoon/cover art.png",
-    "path": "Persian Radif - Kanoon/Playlist/15 - Nava.mp3",
+    "path": "Persian Radif - Kanoon/Playlist/15 - Rastpanjgah.mp3",
     "folder": "Playlist"
   },
   {
-    "name": "16 - Rastpanjgah",
-    "artist": "Various Artists",
+    "name": "16 - Segah 1",
+    "artist": "Various",
     "image": "Persian Radif - Kanoon/cover art.png",
-    "path": "Persian Radif - Kanoon/Playlist/16 - Rastpanjgah.mp3",
+    "path": "Persian Radif - Kanoon/Playlist/16 - Segah 1.mp3",
     "folder": "Playlist"
   },
   {
-    "name": "17 - Segah 1",
-    "artist": "Various Artists",
+    "name": "17 - Segah 2",
+    "artist": "Various",
     "image": "Persian Radif - Kanoon/cover art.png",
-    "path": "Persian Radif - Kanoon/Playlist/17 - Segah 1.mp3",
+    "path": "Persian Radif - Kanoon/Playlist/17 - Segah 2.mp3",
     "folder": "Playlist"
   },
   {
-    "name": "18 - Segah 2",
-    "artist": "Various Artists",
+    "name": "18 - Shoor 1",
+    "artist": "Various",
     "image": "Persian Radif - Kanoon/cover art.png",
-    "path": "Persian Radif - Kanoon/Playlist/18 - Segah 2.mp3",
+    "path": "Persian Radif - Kanoon/Playlist/18 - Shoor 1.mp3",
     "folder": "Playlist"
   },
   {
-    "name": "19 - Shoor 1",
-    "artist": "Various Artists",
+    "name": "19 - Shoor 2",
+    "artist": "Various",
     "image": "Persian Radif - Kanoon/cover art.png",
-    "path": "Persian Radif - Kanoon/Playlist/19 - Shoor 1.mp3",
+    "path": "Persian Radif - Kanoon/Playlist/19 - Shoor 2.mp3",
     "folder": "Playlist"
   },
   {
-    "name": "20 - Shoor 2",
-    "artist": "Various Artists",
+    "name": "20 - Morakab Navazi",
+    "artist": "Various",
     "image": "Persian Radif - Kanoon/cover art.png",
-    "path": "Persian Radif - Kanoon/Playlist/20 - Shoor 2.mp3",
+    "path": "Persian Radif - Kanoon/Playlist/20 - Morakab Navazi.mp3",
     "folder": "Playlist"
   }
 ];
